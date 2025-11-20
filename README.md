@@ -1,18 +1,18 @@
-# 🏗️ GemBuild – Construction Website
+## 🏗️ GemBuild – Construction Website
 
 **GemBuild** is a modern and responsive website for a construction company. Built using React 19 and styled with Tailwind CSS, the site includes smooth animations, interactive elements, dark mode, and a professional UI optimized for performance with Vite.
 
 ---
 
-## 🚀 Features
+## 🌟 Features  
 
-- 🔥 **Smooth Animations** – Powered by `@gsap/react` and `gsap` for a dynamic experience  
-- 🎯 **Routing** – Seamless navigation using `react-router-dom`  
-- 🔥 **Scroll Effects** – Implemented with `react-scroll` for engaging transitions  
-- 💡 **Icons** – Rich icon support from `react-icons` and `lucide-react`  
-- 🎉 **Odometer Animation** – Animated number counters using `react-odometerjs`  
-- 🎠 **Carousel Sliders** – Image and content sliders built with `react-slick` and `slick-carousel`  
-- 🌙 **Dark Mode Toggle** – User-friendly light/dark theme switch  
+- **Smooth Animations** – Powered by `@gsap/react` and `gsap` for a dynamic experience  
+- **Routing** – Seamless navigation using `react-router-dom`  
+- **Scroll Effects** – Implemented with `react-scroll` for engaging transitions  
+- **Icons** – Rich icon support from `react-icons` and `lucide-react`  
+- **Odometer Animation** – Animated number counters using `react-odometerjs`  
+- **Carousel Sliders** – Image and content sliders built with `react-slick` and `slick-carousel`  
+- **Dark Mode Toggle** – User-friendly light/dark theme switch  
 
 ---
 
@@ -43,15 +43,6 @@ npm install
 # Start the development server
 npm run dev
 ```
----
-
-## 🖼️ Screenshot
-
 ![GemBuild Screenshot](https://github.com/user-attachments/assets/6cccff6f-f2b5-4b30-94a2-d6deb7bb7606)
-
----
-
-## Live Preview
-[Open Live Preview](https://front-end-ui-beta.vercel.app)
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue)](https://front-end-ui-beta.vercel.app)
 
