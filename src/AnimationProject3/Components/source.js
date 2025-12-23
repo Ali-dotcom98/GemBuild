@@ -27,12 +27,14 @@ export const keypoints = [
   { title: "Client-Centered Approach", description: "We listen to your needs and tailor our services to exceed your expectations." },
 ];
 
+
 export const whyChooseUs = [
   { title: "Unmatched Quality", icon: FaCheckCircle, description: "Craftsmanship guaranteed" },
   { title: "Timely Delivery", icon: FaClock, description: "Projects completed on schedule" },
   { title: "Innovative Designs", icon: FaDraftingCompass, description: "Creative and modern solutions" },
   { title: "Focused Service", icon: FaUserFriends, description: "Prioritizing client satisfaction" },
 ];
+
 
 export const services = [
   { title: "Residential Construction", icon: FaHome, description: `Building modern, high-quality homes tailored to your vision.` },
