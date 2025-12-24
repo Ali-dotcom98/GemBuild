@@ -73,7 +73,7 @@ const Home = () => {
           </button>
         </div>
 
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center -translate-y-10 md:translate-y-0">
           <img
             src={hero}
             className="w-72 sm:w-80 lg:size-96 lg:scale-110 lg:-translate-y-10"
