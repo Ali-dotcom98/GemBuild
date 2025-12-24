@@ -81,7 +81,7 @@ const NavigationBar = () => {
         <div className="flex items-center gap-4">
           <label className="relative inline-flex items-center cursor-pointer">
             <input type="checkbox" className="sr-only peer" onChange={toggleTheme} />
-            <div className="w-11 h-6 bg-gray-200 rounded-full peer peer-checked:bg-primary-or after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:h-5 after:w-5 after:rounded-full after:transition-all peer-checked:after:translate-x-full" />
+<div className="w-11 h-6 bg-primary-or rounded-full peer peer-checked:bg-gray-200 after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:h-5 after:w-5 after:rounded-full after:transition-all peer-checked:after:translate-x-full" />
           </label>
 
           <button className="lg:hidden" onClick={() => setOpen(!open)}>
