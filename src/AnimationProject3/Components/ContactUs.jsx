@@ -8,7 +8,7 @@ const ContactUs = () => {
   const {theme ,toggleTheme} = useTheme()
   return (
     <>
-  <section id='contact' className={`h-fit pb-20 relative ${theme ==="light"?"bg-white text-black":"bg-dark-bg-primary text-white"}`}>
+  <section id='contact' className={`h-fit pb-20 relative ${theme ==="light"?"bg-white text-black":"bg-dark-bg-primary text-white "}`}>
         <div className='z-0 w-full absolute inset-0 opacity-15'>
             <img src='' alt="" />
         </div>
