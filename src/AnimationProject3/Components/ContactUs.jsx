@@ -17,8 +17,8 @@ const ContactUs = () => {
             <div className=' md:w-[90%] w-full  h-fit md:h-screen grid grid-cols-1 md:grid-cols-2 px-10 py-24'>
                 <div className='z-10 grid grid-rows-3 md:px-5 gap-2 mt-5 md:mt-0  '>
                   <div className={ `${theme ==="light"?"bg-white text-black":"bg-dark-bg-secondary text-white"} rounded-2xl border border-zinc-400 flex flex-col items-center justify-center gap-3 p-5 md:p-0`}>
-                    <h1 className='font-bold'>Email</h1>
-                    <p>ali12345.as@gmail.com</p>
+                    <h1 className='font-bold'>Name</h1>
+                    <p>Syed Muhammad Ali Shah</p>
                     <button className='px-3 py-2 text-white bg-primary-or  rounded-md'>
                         Send Now
                       </button>
