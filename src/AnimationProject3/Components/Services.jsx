@@ -31,7 +31,7 @@ const Services = () => {
     <div
       id="services"
       className={`section relative font-poppins ${
-        theme === "light" ? "bg-white text-black" : "bg-dark-bg-primary text-white"
+        theme === "light" ? "bg-white text-black" : "bg-dark-bg-primary  text-white"
       }`}
     >
       <div className="absolute inset-0 z-0 h-full overflow-hidden">
